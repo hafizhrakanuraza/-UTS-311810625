@@ -1,5 +1,5 @@
 # UTS Teknologi Web.
-Nama  :Hafizh Raka Nuraza
+<h3> Nama  :Hafizh Raka Nuraza
 Nim   :311810625
 Kelas :TI.18.A3
 
@@ -19,7 +19,7 @@ Soal:
    
   2. Buat HTML dan CSS berdasarkan mockup desain tersebut.
   
-  HTML
+ # HTML
   beranda.html
     ![Screenshot (135)](https://user-images.githubusercontent.com/46735563/80859360-68cf1a00-8c8a-11ea-94bc-28195b4c1ede.png)
     
@@ -32,11 +32,11 @@ Soal:
   Lokasi.html
     ![Screenshot (138)](https://user-images.githubusercontent.com/46735563/80859414-12161000-8c8b-11ea-84b3-4c4f86f15857.png)
     
-  CSS
+  # CSS
   template.CSS
     ![Screenshot (139)](https://user-images.githubusercontent.com/46735563/80859440-45589f00-8c8b-11ea-9e5e-fa3b425ebfd0.png)
     
     Dan ini salah satu contoh hasilnya :
-    ![Screenshot (140)](https://user-images.githubusercontent.com/46735563/80859482-949ecf80-8c8b-11ea-868c-9b53a5a3ef41.png)
+      ![Screenshot (140)](https://user-images.githubusercontent.com/46735563/80859525-f4957600-8c8b-11ea-913a-0d291c59f7a6.png)
     
   # Terimakasih.

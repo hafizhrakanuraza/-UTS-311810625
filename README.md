@@ -4,10 +4,10 @@
 <li>Kelas :TI.18.A3</li>
 
 Soal:
-  Buatlah desain web HTML+CSS dengan ketentuan:
+  -Buatlah desain web HTML+CSS dengan ketentuan:
 1. Buat mockup/sketsa desain (gunakan tool bebas, contoh: photoshop, figma, dll)
 2. Buat HTML dan CSS berdasarkan mockup desain tersebut.
-  Tema Desain Web:
+  -Tema Desain Web:
 1. Untuk NIM dengan akhiran Ganjil adalah desain web company profile atau portfolio.
 2. Untuk NIM dengan akhiran Genap adalah desain dashboard admin web.
   Hasil pekerjaan submit pada repository github masing-masing.
@@ -37,5 +37,6 @@ Soal:
     ![Screenshot (139)](https://user-images.githubusercontent.com/46735563/80859440-45589f00-8c8b-11ea-9e5e-fa3b425ebfd0.png)
     
     Dan ini salah satu contoh hasilnya :
-    ![Screenshot (140)](https://user-images.githubusercontent.com/46735563/80859710-0af00180-8c8d-11ea-8724-64b2dd9fb2ee.png)
+  ![Raka](https://user-images.githubusercontent.com/46735563/80859805-a97c6280-8c8d-11ea-863d-18dca05fb32c.png)
+  
   # Terimakasih.

@@ -1,7 +1,7 @@
 # UTS Teknologi Web.
 <li>Nama  :Hafizh Raka Nuraza</li>
-Nim   :311810625
-Kelas :TI.18.A3
+<li>Nim   :311810625</li>
+<li>Kelas :TI.18.A3</li>
 
 Soal:
   Buatlah desain web HTML+CSS dengan ketentuan:
@@ -37,7 +37,5 @@ Soal:
     ![Screenshot (139)](https://user-images.githubusercontent.com/46735563/80859440-45589f00-8c8b-11ea-9e5e-fa3b425ebfd0.png)
     
     Dan ini salah satu contoh hasilnya :
-    
-      ![Screenshot (140)](https://user-images.githubusercontent.com/46735563/80859525-f4957600-8c8b-11ea-913a-0d291c59f7a6.png)
-    
+    ![Screenshot (140)](https://user-images.githubusercontent.com/46735563/80859710-0af00180-8c8d-11ea-8724-64b2dd9fb2ee.png)
   # Terimakasih.

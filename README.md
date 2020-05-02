@@ -1,5 +1,4 @@
-# UTS Teknologi Web
-
+# UTS Teknologi Web.
 Nama  :Hafizh Raka Nuraza
 Nim   :311810625
 Kelas :TI.18.A3
@@ -15,4 +14,29 @@ Soal:
   
  Jawaban :
   1. Buat mockup/sketsa desain
+   
+   ![sketsa](https://user-images.githubusercontent.com/46735563/80859320-fd854800-8c89-11ea-9e06-13fa8da15fcd.jpeg)
+   
+  2. Buat HTML dan CSS berdasarkan mockup desain tersebut.
   
+  HTML
+  beranda.html
+    ![Screenshot (135)](https://user-images.githubusercontent.com/46735563/80859360-68cf1a00-8c8a-11ea-94bc-28195b4c1ede.png)
+    
+  pendidikan.html
+    ![Screenshot (136)](https://user-images.githubusercontent.com/46735563/80859384-c2cfdf80-8c8a-11ea-80af-fa1e039e9b9a.png)
+    
+  tentang.html
+    ![Screenshot (137)](https://user-images.githubusercontent.com/46735563/80859398-e430cb80-8c8a-11ea-80d6-ca9589240aed.png)
+    
+  Lokasi.html
+    ![Screenshot (138)](https://user-images.githubusercontent.com/46735563/80859414-12161000-8c8b-11ea-84b3-4c4f86f15857.png)
+    
+  CSS
+  template.CSS
+    ![Screenshot (139)](https://user-images.githubusercontent.com/46735563/80859440-45589f00-8c8b-11ea-9e5e-fa3b425ebfd0.png)
+    
+    Dan ini salah satu contoh hasilnya :
+    ![Screenshot (140)](https://user-images.githubusercontent.com/46735563/80859482-949ecf80-8c8b-11ea-868c-9b53a5a3ef41.png)
+    
+  # Terimakasih.

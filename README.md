@@ -6,10 +6,10 @@
 # Soal:
   <li>Buatlah desain web HTML+CSS dengan ketentuan:</li>
 <h5> 1. Buat mockup/sketsa desain (gunakan tool bebas, contoh: photoshop, figma, dll)</h5>
-<h5> 2. Buat HTML dan CSS berdasarkan mockup desain tersebut.<h5>
+<h5> 2. Buat HTML dan CSS berdasarkan mockup desain tersebut.</h5>
   <li>Tema Desain Web:</li>
-<h5> 1. Untuk NIM dengan akhiran Ganjil adalah desain web company profile atau portfolio.<h5>
-<h5> 2. Untuk NIM dengan akhiran Genap adalah desain dashboard admin web.<h5>
+<h5> 1. Untuk NIM dengan akhiran Ganjil adalah desain web company profile atau portfolio.</h5>
+<h5> 2. Untuk NIM dengan akhiran Genap adalah desain dashboard admin web.</h5>
   Hasil pekerjaan submit pada repository github masing-masing.
   
  # Jawaban :

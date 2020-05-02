@@ -1,5 +1,5 @@
 # UTS Teknologi Web.
-<h3> Nama  :Hafizh Raka Nuraza
+<li>Nama  :Hafizh Raka Nuraza</li>
 Nim   :311810625
 Kelas :TI.18.A3
 
@@ -37,6 +37,7 @@ Soal:
     ![Screenshot (139)](https://user-images.githubusercontent.com/46735563/80859440-45589f00-8c8b-11ea-9e5e-fa3b425ebfd0.png)
     
     Dan ini salah satu contoh hasilnya :
+    
       ![Screenshot (140)](https://user-images.githubusercontent.com/46735563/80859525-f4957600-8c8b-11ea-913a-0d291c59f7a6.png)
     
   # Terimakasih.
